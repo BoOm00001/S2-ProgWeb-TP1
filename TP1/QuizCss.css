@@ -1,0 +1,33 @@
+header{
+
+    background-color: cornflowerblue;
+    height: 100px; 
+}
+
+img#logo{
+    width: 7%;
+    position: relative;
+    bottom: 19%;
+}
+
+#erreurNom{
+
+    margin: initial;
+    height: 40px;
+    text-align: center;
+}
+
+#question1 {
+    list-style-type: none;
+    padding-left: 0; /* Optional: to remove left padding */
+}
+
+#question2 {
+    list-style-type: none;
+    padding-left: 0; /* Optional: to remove left padding */
+}
+
+#question3 {
+    list-style-type: none;
+    padding-left: 0; /* Optional: to remove left padding */
+}
